@@ -1,4 +1,3 @@
-..code:: robotframework
 *** Settings ***
 Documentation    Example using the restructuredText format
 Library          OperatingSystem
