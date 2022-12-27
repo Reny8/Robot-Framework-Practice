@@ -15,7 +15,6 @@ Another Test
     Should Be Equal    ${MESSAGE}    Hello, world!
 
 *** Keywords ***
-
 My Keyword        [Arguments]    ${path}
 
 
